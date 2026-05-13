@@ -1622,7 +1622,7 @@
 	}
 
 	body {
-		background: #5AA9E6; \\ JOEP DEMCOM General Background 312450 dd614a
+		background: #545E75; \\ JOEP DEMCOM General Background 312450 dd614a
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2571,7 +2571,7 @@
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5AA9E6; \\ JOEP DEMCOM icon in working packages 5052b5
+					color: #545E75; \\ JOEP DEMCOM icon in working packages 5052b5
 				}
 
 				.wrapper.style2-alt .icon.major:before {
@@ -3253,15 +3253,15 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #7FC8F8; \\ JOEP DEMCOM 5e42a6 Intro 410b13
+			background-color: #5AA9E6; \\ JOEP DEMCOM 5e42a6 Intro 410b13
 		}
 
 		.wrapper.style1-alt {
-			background-color: #7FC8F8; \\ JOEP DEMCOM 493382 Footer
+			background-color: #5AA9E6; \\ JOEP DEMCOM 493382 Footer
 		}
 
 		.wrapper.style2 {
-			background-color: #5AA9E6; \\ JOEP DEMCOM 5052b5 Projects and About
+			background-color: #545E75; \\ JOEP DEMCOM 5052b5 Projects and About
 		}
 
 		.wrapper.style2-alt {
@@ -3269,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #7FC8F8; \\ JOEP DEMCOM b74e91 
+			background-color: #5AA9E6; \\ JOEP DEMCOM b74e91 
 		}
 
 		.wrapper.style3-alt {
@@ -3771,7 +3771,7 @@
 			}
 
 			#sidebar nav a:before {
-				background: #7FC8F8; \\ JOEP DEMCOM lines under the sidebar headings 3c2c62
+				background: #5AA9E6; \\ JOEP DEMCOM lines under the sidebar headings 3c2c62
 			}
 
 			#sidebar nav a:after {
