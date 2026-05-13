@@ -49,7 +49,7 @@ title: Hyperspace by HTML5 UP
 			<section>
 				<span class="icon major fa-globe"></span>
 				<h3>Country selection</h3>
-				<p>We take a comparative, cross-country approach and study citizens' commitment in Italy, France, Poland, Finland, the Netherlands, Germany, ..., and ....</p>
+				<p>We take a comparative, cross-country approach and study citizens' commitment in France, Italy, Poland, Finland, the Netherlands, Germany, Romania, Moldova, Estonia, Serbia, Spain, and Hungary.</p>
 			</section>
 		</div>
 	</div>
