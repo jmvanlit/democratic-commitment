@@ -60,11 +60,19 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<h2>News and updates</h2>
 			<ul class="news">
-				<li><span class="news-date">2026-10-13</span> · <strong>N. Wunsch</strong> and Selim Erdem Aytaç published a study on Hungarians' commitment to liberal democracy before, during, and after the 2026 general elections on SSRN. <a href="https://dx.doi.org/10.2139/ssrn.7567361">Read more</a></li>
-			</ul>
-			<ul class="news">
-				<li><span class="news-date">2026-05-15</span> · <strong>N. Wunsch</strong>, <strong>J. van Lit</strong>, and T. Petrova published a study on Czechs' commitment to liberal democracy on OSF <a href="https://osf.io/preprints/osf/eqnxs_v1">Read more</a></li>
-			</ul>
+	<li><span class="news-date">2026-10-13</span> · <strong>N. Wunsch</strong> and S. E. Aytaç published a study on Hungarians' commitment to liberal democracy before, during, and after the 2026 general elections on SSRN. <a href="https://dx.doi.org/10.2139/ssrn.7567361">Read more</a>
+		<details class="abstract">
+			<summary>Abstract</summary>
+			<p>How does electoral turnover affect citizens' liberal democratic commitment? Supporting constraints on executive power costs little while one's own party is out of office, but electoral turnover offers a critical test of whether democratic priorities represent a stable normative orientation or are contingent on political power. In this paper, we leverage a real-world electoral turnover following Hungary's April 2026 parliamentary elections, in which the former opposition party Tisza won a supermajority after sixteen years of deepening autocratization under Fidesz rule. Combining a three-wave panel survey and experimental evidence around this election, we examine how winner-loser status affects the relative importance citizens attach to liberal and majoritarian understandings of democracy. We find substantial partisan differences before the election and systematic updating after turnover, whereby electoral losers become more liberal and winners more majoritarian. These shifts are meaningful but partial, suggesting that citizens' democratic priorities are partly contingent on political power rather than fixed principles. Liberal democratic commitment thus appears to weaken at the moment it would matter mostwhen a party has newly gained office. This finding has important implications for how we assess citizens' capacity to constrain governments in polarized democracies and speaks to broader debates about democratic resilience and restoration.</p>
+		</details>
+	</li>
+	<li><span class="news-date">2026-05-15</span> · <strong>N. Wunsch</strong>, <strong>J. van Lit</strong>, and T. Petrova published a study on Czechs' commitment to liberal democracy on OSF. <a href="https://osf.io/preprints/osf/eqnxs_v1">Read more</a>
+		<details class="abstract">
+			<summary>Abstract</summary>
+			<p>Paste the abstract here.</p>
+		</details>
+	</li>
+</ul>
 	</div>
 </section>
 
