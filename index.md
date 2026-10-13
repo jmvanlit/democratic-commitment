@@ -55,13 +55,16 @@ title: Hyperspace by HTML5 UP
 	</div>
 </section>
 
-<!-- One -->
+<!-- News -->
 <section id="news" class="wrapper style2 fade-up">
 	<div class="inner">
 		<h2>News and updates</h2>
-		<ul class="news">
-	<li><span class="news-date">2026-10-13</span> · We launched our first cross-national survey wave in twelve European countries. <a href="#">Read more</a></li>
-</ul>
+			<ul class="news">
+				<li><span class="news-date">2026-10-13</span> · <strong>N. Wunsch</strong> and Selim Erdem Aytaç published a study on Hungarians' commitment to liberal democracy before, during, and after the 2026 general elections on SSRN. <a href="https://dx.doi.org/10.2139/ssrn.7567361">Read more</a></li>
+			</ul>
+			<ul class="news">
+				<li><span class="news-date">2026-05-15</span> · <strong>N. Wunsch</strong>, <strong>J. van Lit</strong>, and T. Petrova published a study on Czechs' commitment to liberal democracy on OSF <a href="https://osf.io/preprints/osf/eqnxs_v1">Read more</a></li>
+			</ul>
 	</div>
 </section>
 
@@ -130,7 +133,6 @@ title: Hyperspace by HTML5 UP
 			<li><strong>N. Wunsch</strong> (2025). <a href="https://academic.oup.com/book/60927">Democratic Commitment: Why Citizens Tolerate Democratic Backsliding</a>, Oxford University Press, Open Access.</li>
 			<li><strong>N. Wunsch</strong>, M. Jacob, and L. Derksen (2025) <a href="https://doi.org/10.1017/S0007123424000711">The Demand Side of Democratic Backsliding: How Divergent Understandings of Democracy Shape Political Choice</a>, British Journal of Political Science, Open Access.</li>
 			<li>T. Gessler and <strong>N. Wunsch</strong> (2025). <a href="https://doi.org/10.1111/1475-6765.12751">A new regime divide? Democratic backsliding, attitudes towards democracy and affective polarization</a>, European Journal of Political Research, Open Access</li>
-			<li><strong>N. Wunsch</strong>, <strong>J. van Lit</strong>, and T. Petrova. <a href="https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
 			<li><strong>J. van Lit</strong> (2024). <a href="https://www.dpes.nl/wp-content/uploads/2024/07/NKO2023-Rapportage-De-verkiezingen-van-2023-1.pdf">Opvattingen over democratie in Nederland</a>, report on Dutch voters' understanding of democracy for the Dutch Parliamentarian Election Studies, Open Access (in Dutch)</li>
 		</ul>
 	</div>
