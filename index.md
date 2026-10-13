@@ -7,7 +7,7 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<img src="images/logo-light.png" alt="DEMCOM - Université de Fribourg" style="max-width: 70%; margin-bottom: 1.5rem; display: block;" />
 		<!-- <h1>Researching Citizens' Commitment to Liberal Democracy</h1> -->
-		<p>A research project at the University of Fribourg into citizens' democratic attitudes across Europe and how they shape their political identities and behaviour, funded by the <a href="https://data.snf.ch/grants/grant/10005358">Swiss National Science Foundation</a>, and under supervision of <a href="https://www.unifr.ch/directory/en/people/366435/28485">prof. Natasha Wunsch</a>.</p>
+		<p>A research project at the University of Fribourg into citizens' democratic attitudes across Europe and how they shape their political identities and behaviour, funded by the <a href="https://data.snf.ch/grants/grant/10005358">Swiss National Science Foundation</a>, led by <a href="https://www.unifr.ch/directory/en/people/366435/28485">Natasha Wunsch</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more about the project</a></li>
 			<li><a href="#two" class="button scrolly">Meet the project team</a></li>
@@ -52,6 +52,14 @@ title: Hyperspace by HTML5 UP
 				<p>We take a comparative, cross-country approach and study citizens' commitment in France, Italy, Poland, Finland, the Netherlands, Germany, Romania, Moldova, Estonia, Serbia, Spain, and Hungary.</p>
 			</section>
 		</div>
+	</div>
+</section>
+
+<!-- One -->
+<section id="one" class="wrapper style2 fade-up">
+	<div class="inner">
+		<h2>News and updates</h2>
+		<p>Text</p>
 	</div>
 </section>
 
@@ -119,7 +127,7 @@ title: Hyperspace by HTML5 UP
 		<ul>
 			<li><strong>N. Wunsch</strong> (2025). <a href="https://academic.oup.com/book/60927">Democratic Commitment: Why Citizens Tolerate Democratic Backsliding</a>, Oxford University Press, Open Access.</li>
 			<li><strong>N. Wunsch</strong>, M. Jacob, and L. Derksen (2025) <a href="https://doi.org/10.1017/S0007123424000711">The Demand Side of Democratic Backsliding: How Divergent Understandings of Democracy Shape Political Choice</a>, British Journal of Political Science, Open Access.</li>
-			<li>T. Gessler and <strong>N. Wunsch</strong>(2025). <a href="https://doi.org/10.1111/1475-6765.12751">A new regime divide? Democratic backsliding, attitudes towards democracy and affective polarization</a>, European Journal of Political Research, Open Access</li>
+			<li>T. Gessler and <strong>N. Wunsch</strong> (2025). <a href="https://doi.org/10.1111/1475-6765.12751">A new regime divide? Democratic backsliding, attitudes towards democracy and affective polarization</a>, European Journal of Political Research, Open Access</li>
 			<li><strong>N. Wunsch</strong>, <strong>J. van Lit</strong>, and T. Petrova. <a href="https://osf.io/preprints/osf/eqnxs_v1">Justifying the Unjustifiable: In-party Cues and Citizen Acceptance of Democratic Transgressions</a>, OSF Preprint</li>
 			<li><strong>J. van Lit</strong> (2024). <a href="https://www.dpes.nl/wp-content/uploads/2024/07/NKO2023-Rapportage-De-verkiezingen-van-2023-1.pdf">Opvattingen over democratie in Nederland</a>, report on Dutch voters' understanding of democracy for the Dutch Parliamentarian Election Studies, Open Access (in Dutch)</li>
 		</ul>
