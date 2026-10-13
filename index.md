@@ -130,10 +130,11 @@ title: Hyperspace by HTML5 UP
 		<h2>Related projects by the team</h2>
 		<p>The team works on a broad set of research questions. You can find all their publications on their personal profiles and websites. Here, you will find a selection of their research that directly taps into <strong>citizens' commitment to liberal democracy</strong>. When research is not available Open Access, feel free to contact us so we can send you a copy!</p>
 		<ul>
+			<li><strong>J. van Lit</strong> and C. van Alebeek (2026). <a href="https://www.dpes.nl/wp-content/uploads/2026/06/Veelstemmig.-Publieksrapport-NKO2025.pdf">Steun voor (en zorgen over) democratie</a> (Support for (and worries about) democracy), report on Dutch voters' understanding of democracy for the Dutch Parliamentarian Election Studies around the 2025 general elections, Open Access (in Dutch)</li>
 			<li><strong>N. Wunsch</strong> (2025). <a href="https://academic.oup.com/book/60927">Democratic Commitment: Why Citizens Tolerate Democratic Backsliding</a>, Oxford University Press, Open Access.</li>
 			<li><strong>N. Wunsch</strong>, M. Jacob, and L. Derksen (2025) <a href="https://doi.org/10.1017/S0007123424000711">The Demand Side of Democratic Backsliding: How Divergent Understandings of Democracy Shape Political Choice</a>, British Journal of Political Science, Open Access.</li>
 			<li>T. Gessler and <strong>N. Wunsch</strong> (2025). <a href="https://doi.org/10.1111/1475-6765.12751">A new regime divide? Democratic backsliding, attitudes towards democracy and affective polarization</a>, European Journal of Political Research, Open Access</li>
-			<li><strong>J. van Lit</strong> (2024). <a href="https://www.dpes.nl/wp-content/uploads/2024/07/NKO2023-Rapportage-De-verkiezingen-van-2023-1.pdf">Opvattingen over democratie in Nederland</a>, report on Dutch voters' understanding of democracy for the Dutch Parliamentarian Election Studies, Open Access (in Dutch)</li>
+			<li><strong>J. van Lit</strong> (2024). <a href="https://www.dpes.nl/wp-content/uploads/2024/07/NKO2023-Rapportage-De-verkiezingen-van-2023-1.pdf">Opvattingen over democratie in Nederland</a> (Attitudes about about democracy in the Netherlands), report on Dutch voters' understanding of democracy for the Dutch Parliamentarian Election Studies around the 2023 general elections, Open Access (in Dutch)</li>
 		</ul>
 	</div>
 </section>
