@@ -49,17 +49,19 @@ title: Hyperspace by HTML5 UP
 			<section>
 				<span class="icon major fa-globe"></span>
 				<h3>Country selection</h3>
-				<p>We take a comparative, cross-country approach and study citizens' commitment in France, Italy, Poland, Finland, the Netherlands, Germany, Romania, Moldova, Estonia, Serbia, Spain, and Hungary.</p>
+				<p>We take a comparative, cross-country approach and study citizens' commitment in France, Italy, Poland, Finland, the Netherlands, Serbia, Germany, Spain, Estonia, Slovakia, and Romania.</p>
 			</section>
 		</div>
 	</div>
 </section>
 
 <!-- One -->
-<section id="one" class="wrapper style2 fade-up">
+<section id="news" class="wrapper style2 fade-up">
 	<div class="inner">
 		<h2>News and updates</h2>
-		<p>Text</p>
+		<ul class="news">
+	<li><span class="news-date">2026-10-13</span> · We launched our first cross-national survey wave in twelve European countries. <a href="#">Read more</a></li>
+</ul>
 	</div>
 </section>
 
