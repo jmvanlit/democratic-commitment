@@ -60,7 +60,7 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<h2>News and updates</h2>
 			<ul class="news">
-				<li><span class="news-date">7 November 2026</span> · <strong>Natasha Wunsch</strong>strong> discussed the electoral victory of the Serbian Student List on <a href="https://www.youtube.com/watch?v=3Kg3JJE5ZBo">Géopolitis (RTS/TV5 Monde)</a>
+				<li><span class="news-date">7 November 2026</span> · <strong>Natasha Wunsch</strong> discussed the electoral victory of the Serbian Student List on <a href="https://www.youtube.com/watch?v=3Kg3JJE5ZBo">Géopolitis (RTS/TV5 Monde)</a>
 				</li>		
 				<li><span class="news-date">13 October 2026</span> · <strong>N. Wunsch</strong> and S. E. Aytaç published a study on Hungarians' commitment to liberal democracy before, during, and after the 2026 general elections on SSRN. <a href="https://dx.doi.org/10.2139/ssrn.7567361">Download the pre-print</a>
 					<details class="abstract">
